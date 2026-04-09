@@ -6,8 +6,7 @@
 }
 
 body {
-    background-color: #ccc;
-    background-image: url(../img/abstract-textured-backgound.jpg);
+    background-color: #cfcfcf;
 }
 
 .container {
@@ -17,7 +16,7 @@ body {
 
 .header {
     text-align: center;
-    padding: 120px 0;
+    padding: 100px 0;
 }
 
 .profile {
@@ -25,7 +24,7 @@ body {
 }
 
 .profile-avatar {
-    height: 180px;
+    height: 160px;
     width: 180px;
     border-radius: 50%;
 }
